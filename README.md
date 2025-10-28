@@ -14,5 +14,4 @@ This game was largely inspired by Geometry Dash by RobTop Games.
 ## How to play
 
 Download the build compatible for your OS, start the game, and follow on-screen instructions.
-
 Make sure OpenJDK 17 is installed on your system.
